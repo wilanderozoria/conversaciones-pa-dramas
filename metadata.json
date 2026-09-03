@@ -1,0 +1,6 @@
+{
+  "name": "Conversaciones de Audio",
+  "description": "Genera diálogos entre dos personas con voces de IA y descárgalos en formato MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
